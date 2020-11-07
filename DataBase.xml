@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FilmsDataBase>
+  <film ID ="1"
+        CITY ="Kyiv"
+        CINEMA ="Cinema City"
+        MOVIE ="THE WITCHES"
+        DATE ="09.11.2020"
+        TIME="14:50"
+        PRICE="120">
+  </film>
+  <film ID="2"
+        CITY ="Kyiv"
+        CINEMA="Multiplex"
+        MOVIE="Harry Potter and the Sorcerer's Stone"
+        DATE="11.11.2020"
+        TIME="12:15"
+        PRICE="90">
+  </film>
+  <film ID="3"
+        CITY ="Khmelnytskyi"
+        CINEMA="Multiplex"
+        MOVIE="Paddington 2"
+        DATE="10.11.2020"
+        TIME="10:20"
+        PRICE="70">
+  </film>
+<film ID="4"
+        CITY ="Khmelnytskyi"
+        CINEMA="Multiplex"
+        MOVIE="Enola Holmes"
+        DATE="10.11.2020"
+        TIME="16:45"
+        PRICE="85">
+  </film>
+  <film ID="5"
+        CITY ="Khmelnytskyi"
+        CINEMA="Planeta kino"
+        MOVIE="Enola Holmes"
+        DATE="11.11.2020"
+        TIME="10:20"
+        PRICE="70">
+  </film>
+  <film ID="6"
+        CITY ="Khmelnytskyi"
+        CINEMA="Multiplex"
+        MOVIE="THE WITCHES"
+        DATE="11.11.2020"
+        TIME="14:50"
+        PRICE="90">
+  </film>
+  <film ID="7"
+        CITY ="Khmelnytskyi"
+        CINEMA="Planeta kino"
+        MOVIE="Mulan"
+        DATE="09.11.2020"
+        TIME="12:15"
+        PRICE="110">
+  </film>
+  <film ID="8"
+        CITY ="Kyiv"
+        CINEMA="Cinema city"
+        MOVIE="Enola Holmes"
+        DATE="09.11.2020"
+        TIME="16:45"
+        PRICE="120">
+  </film>
+  <film ID="9"
+        CITY ="Kyiv"
+        CINEMA="Planeta kino"
+        MOVIE="Enola Holmes"
+        DATE="10.11.2020"
+        TIME="16:45"
+        PRICE="90">
+  </film>
+  <film ID="10"
+        CITY ="Kyiv"
+        CINEMA="Cinema city"
+        MOVIE="Harry Potter and the Sorcerer's Stone"
+        DATE="10.11.2020"
+        TIME="10:20"
+        PRICE="90">
+  </film>
+  <film ID="11"
+        CITY ="Lviv"
+        CINEMA="Planeta kino"
+        MOVIE="THE WITCHES"
+        DATE="10.11.2020"
+        TIME="10:20"
+        PRICE="90">
+  </film>
+  <film ID="12"
+        CITY ="Lviv"
+        CINEMA="Planeta kino"
+        MOVIE="Enola Holmes"
+        DATE="10.11.2020"
+        TIME="14:50"
+        PRICE="110">
+  </film>
+  <film ID="13"
+        CITY ="Lviv"
+        CINEMA="Planeta kino"
+        MOVIE="Mulan"
+        DATE="10.11.2020"
+        TIME="16:45"
+        PRICE="110">
+  </film>
+  <film ID="14"
+        CITY ="Lviv"
+        CINEMA="Cinema city"
+        MOVIE="Enola Holmes"
+        DATE="11.11.2020"
+        TIME="12:15"
+        PRICE="120">
+  </film>
+  <film ID="15"
+        CITY ="Lviv"
+        CINEMA="Cinema city"
+        MOVIE="Enola Holmes"
+        DATE="10.11.2020"
+        TIME="16:45"
+        PRICE="85">
+  </film>
+  <film ID="16"
+        CITY ="Vinnytsia"
+        CINEMA="Multiplex"
+        MOVIE="Enola Holmes"
+        DATE="10.11.2020"
+        TIME="16:45"
+        PRICE="85">
+  </film>
+  <film ID="17"
+        CITY ="Vinnytsia"
+        CINEMA="Multiplex"
+        MOVIE="THE WITCHES"
+        DATE="11.11.2020"
+        TIME="10:20"
+        PRICE="85">
+  </film>
+  <film ID="18"
+        CITY ="Vinnytsia"
+        CINEMA="Multiplex"
+        MOVIE="Mulan"
+        DATE="11.11.2020"
+        TIME="14:50"
+        PRICE="90">
+  </film>
+  <film ID="19"
+        CITY ="Vinnytsia"
+        CINEMA="Planeta kino"
+        MOVIE="Mulan"
+        DATE="10.11.2020"
+        TIME="16:45"
+        PRICE="90">
+  </film>
+  <film ID="20"
+        CITY ="Vinnytsia"
+        CINEMA="Planeta kino"
+        MOVIE="Enola Holmes"
+        DATE="09.11.2020"
+        TIME="12:15"
+        PRICE="85">
+  </film>
+</FilmsDataBase>
