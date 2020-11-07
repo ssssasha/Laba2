@@ -18,7 +18,7 @@ namespace Laba2
         public Form1()
         {
             InitializeComponent();
-            buildBox(comboBoxCity, comboBoxCinema, comboBoxMovie, comboBoxDate, comboBoxTime, comboBoxPrice);
+            BuildBox(comboBoxCity, comboBoxCinema, comboBoxMovie, comboBoxDate, comboBoxTime, comboBoxPrice);
             comboBoxCity.Enabled = false;
             comboBoxCinema.Enabled = false;
             comboBoxMovie.Enabled = false;
@@ -27,7 +27,7 @@ namespace Laba2
             comboBoxPrice.Enabled = false;
             radioLINQ.Checked = true;
         }
-        public void buildBox(ComboBox cityBox, ComboBox cinemaBox, ComboBox movieBox, ComboBox dateBox, ComboBox timeBox, ComboBox priceBox)
+        public void BuildBox(ComboBox cityBox, ComboBox cinemaBox, ComboBox movieBox, ComboBox dateBox, ComboBox timeBox, ComboBox priceBox)
         {
             IStrategy p = new LINQToXML();
             List<Films> res = p.AnalyzeFile(new Films(), path);
